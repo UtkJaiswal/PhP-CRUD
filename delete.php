@@ -1,3 +1,4 @@
+<?php include 'navbar.php'; ?>
 <?php
 include 'db_config.php';
 
