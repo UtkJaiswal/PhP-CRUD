@@ -18,3 +18,4 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows
 3. Click on the "View Students" link to see a list of all students.
 4. Update student information using the "Edit" button.
 5. Delete students using the "Delete" button.
+6. Also have the navbar to redirect to HomePage
