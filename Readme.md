@@ -11,3 +11,10 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows
 
 
 
+## Usage
+
+1. Access the project in your web browser.
+2. Use the "Add Student" link to add new student records.
+3. Click on the "View Students" link to see a list of all students.
+4. Update student information using the "Edit" button.
+5. Delete students using the "Delete" button.
